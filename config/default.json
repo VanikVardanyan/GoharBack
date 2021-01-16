@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://vanik:92702689@cluster0.emzm2.mongodb.net/vanik?retryWrites=true&w=majority",
+  "jwtSecret": "van is god in front end",
+  "baseUrl": "http://localhost:5000"
+}
